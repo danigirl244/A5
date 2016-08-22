@@ -1,0 +1,5 @@
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\A5Starter\GameLibrary\bin\Debug\GameLibrary.dll
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\A5Starter\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\A5Starter\GameLibrary\obj\Debug\GameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\A5Starter\GameLibrary\obj\Debug\GameLibrary.dll
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\A5Starter\GameLibrary\obj\Debug\GameLibrary.pdb

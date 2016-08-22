@@ -1,0 +1,8 @@
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\A5Starter\A5GameLibrary\bin\Debug\TicTacToe.exe.config
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\A5Starter\A5GameLibrary\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\A5Starter\A5GameLibrary\bin\Debug\TicTacToe.exe
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\A5Starter\A5GameLibrary\bin\Debug\TicTacToe.pdb
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\A5Starter\A5GameLibrary\bin\Debug\GameLibrary.dll
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\A5Starter\A5GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\A5Starter\A5GameLibrary\obj\Debug\TicTacToe.exe
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\A5Starter\A5GameLibrary\obj\Debug\TicTacToe.pdb
